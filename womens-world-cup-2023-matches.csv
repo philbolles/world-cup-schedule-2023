@@ -1,0 +1,65 @@
+Year,Month,Day,Time,Location Country,Location City,Location City Alternate Name,Team Country A,Team Country B,Stadium Name,Raw Game Number,Game Number or Designation,Tournament Phase
+2023,7,20,19:00,New Zealand,Auckland,Tamaki Makaurau,New Zealand,Norway,Eden Park,1,1,Group Stage
+2023,7,20,20:00,Australia,Sydney,Gadigal,Australia,Ireland,Stadium Australia,2,2,Group Stage
+2023,7,21,17:00,New Zealand,Dunedin,Otepoti,Philippines,Switzerland,Dunedin Stadium,3,3,Group Stage
+2023,7,21,12:30,Australia,Melbourne,Naarm,Nigeria,Canada,Melbourne Rectangular Stadium,4,4,Group Stage
+2023,7,21,19:30,New Zealand,Wellington,Te Whanganui-a-Tara,Spain,Costa Rica,Wellington Regional Stadium,5,5,Group Stage
+2023,7,22,13:00,New Zealand,Auckland,Tamaki Makaurau,United States,Vietnam,Eden Park,9,9,Group Stage
+2023,7,22,19:00,New Zealand,Hamilton,Kirikiriroa,Zambia,Japan,Waikato Stadium,6,6,Group Stage
+2023,7,22,19:30,Australia,Brisbane,Meaanjin,England,Haiti,Brisbane Stadium,7,7,Group Stage
+2023,7,22,20:00,Australia,Perth,Boorloo,Denmark,China,Perth Rectangular Stadium,8,8,Group Stage
+2023,7,23,20:00,Australia,Sydney,Gadigal,France,Jamaica,Sydney Football Stadium,11,11,Group Stage
+2023,7,23,19:30,New Zealand,Dunedin,Otepoti,Netherlands,Portugal,Dunedin Stadium,10,10,Group Stage
+2023,7,23,17:00,New Zealand,Wellington,Te Whanganui-a-Tara,Sweden,South Africa,Wellington Regional Stadium,12,12,Group Stage
+2023,7,24,18:00,New Zealand,Auckland,Tamaki Makaurau,Italy,Argentina,Eden Park,14,14,Group Stage
+2023,7,24,18:30,Australia,Melbourne,Naarm,Germany,Morocco,Melbourne Rectangular Stadium,15,15,Group Stage
+2023,7,24,20:30,Australia,Adelaide,Tarntanya,Brazil,Panama,Hindmarsh Stadium,13,13,Group Stage
+2023,7,25,12:00,Australia,Sydney,Gadigal,Colombia,Korea,Sydney Football Stadium,16,16,Group Stage
+2023,7,25,17:30,New Zealand,Wellington,Te Whanganui-a-Tara,New Zealand,Philippines,Wellington Regional Stadium,17,17,Group Stage
+2023,7,25,20:00,New Zealand,Hamilton,Kirikiriroa,Switzerland,Norway,Waikato Stadium,18,18,Group Stage
+2023,7,26,17:00,New Zealand,Dunedin,Otepoti,Japan,Costa Rica,Dunedin Stadium,21,21,Group Stage
+2023,7,26,19:30,New Zealand,Auckland,Tamaki Makaurau,Spain,Zambia,Eden Park,20,20,Group Stage
+2023,7,26,20:00,Australia,Perth,Boorloo,Canada,Ireland,Perth Rectangular Stadium,19,19,Group Stage
+2023,7,27,13:00,New Zealand,Wellington,Te Whanganui-a-Tara,United States,Netherlands,Wellington Regional Stadium,23,23,Group Stage
+2023,7,27,19:30,New Zealand,Hamilton,Kirikiriroa,Portugal,Vietnam,Waikato Stadium,24,24,Group Stage
+2023,7,27,20:00,Australia,Brisbane,Meaanjin,Australia,Nigeria,Brisbane Stadium,22,22,Group Stage
+2023,7,28,12:00,New Zealand,Dunedin,Otepoti,Argentina,South Africa,Dunedin Stadium,27,27,Group Stage
+2023,7,28,18:30,Australia,Sydney,Gadigal,England,Denmark,Sydney Football Stadium,25,25,Group Stage
+2023,7,28,20:30,Australia,Adelaide,Tarntanya,China,Haiti,Hindmarsh Stadium,26,26,Group Stage
+2023,7,29,19:30,New Zealand,Wellington,Te Whanganui-a-Tara,Sweden,Italy,Wellington Regional Stadium,30,30,Group Stage
+2023,7,29,20:00,Australia,Brisbane,Meaanjin,France,Brazil,Brisbane Stadium,28,28,Group Stage
+2023,7,29,20:30,Australia,Perth,Boorloo,Panama,Jamaica,Perth Rectangular Stadium,29,29,Group Stage
+2023,7,30,14:00,Australia,Adelaide,Tarntanya,Korea,Morocco,Hindmarsh Stadium,32,32,Group Stage
+2023,7,30,19:00,New Zealand,Auckland,Tamaki Makaurau,Norway,Philippines,Eden Park,34,34,Group Stage
+2023,7,30,19:00,New Zealand,Dunedin,Otepoti,Switzerland,New Zealand,Dunedin Stadium,33,33,Group Stage
+2023,7,30,19:30,Australia,Sydney,Gadigal,Germany,Colombia,Sydney Football Stadium,31,31,Group Stage
+2023,7,31,19:00,New Zealand,Wellington,Te Whanganui-a-Tara,Japan,Spain,Wellington Regional Stadium,37,37,Group Stage
+2023,7,31,19:00,New Zealand,Hamilton,Kirikiriroa,Costa Rica,Zambia,Waikato Stadium,38,38,Group Stage
+2023,7,31,20:00,Australia,Melbourne,Naarm,Canada,Australia,Melbourne Rectangular Stadium,35,35,Group Stage
+2023,7,31,20:00,Australia,Brisbane,Meaanjin,Ireland,Nigeria,Brisbane Stadium,36,36,Group Stage
+2023,8,1,19:00,New Zealand,Auckland,Tamaki Makaurau,Portugal,United States,Eden Park,41,41,Group Stage
+2023,8,1,19:00,New Zealand,Dunedin,Otepoti,Vietnam,Netherlands,Dunedin Stadium,42,42,Group Stage
+2023,8,1,19:00,Australia,Perth,Boorloo,Haiti,Denmark,Perth Rectangular Stadium,40,40,Group Stage
+2023,8,1,20:30,Australia,Adelaide,Tarntanya,China,England,Hindmarsh Stadium,39,39,Group Stage
+2023,8,2,19:00,New Zealand,Wellington,Te Whanganui-a-Tara,South Africa,Italy,Wellington Regional Stadium,46,46,Group Stage
+2023,8,2,19:00,New Zealand,Hamilton,Kirikiriroa,Argentina,Sweden,Waikato Stadium,45,45,Group Stage
+2023,8,2,20:00,Australia,Sydney,Gadigal,Panama,France,Sydney Football Stadium,43,43,Group Stage
+2023,8,2,20:00,Australia,Melbourne,Naarm,Jamaica,Brazil,Melbourne Rectangular Stadium,44,44,Group Stage
+2023,8,3,20:00,Australia,Brisbane,Meaanjin,Korea,Germany,Brisbane Stadium,47,47,Group Stage
+2023,8,3,18:00,Australia,Perth,Boorloo,Morocco,Colombia,Perth Rectangular Stadium,48,48,Group Stage
+2023,8,5,17:00,New Zealand,Auckland,Tamaki Makaurau,1st Group A,2nd Group C,Eden Park,49,1,Round of 16
+2023,8,5,20:00,New Zealand,Wellington,Te Whanganui-a-Tara,1st Group C,2nd Group A,Wellington Regional Stadium,50,2,Round of 16
+2023,8,6,12:00,Australia,Sydney,Gadigal,1st Group E,2nd Group G,Sydney Football Stadium,51,3,Round of 16
+2023,8,6,19:00,Australia,Melbourne,Naarm,1st Group G,2nd Group E,Melbourne Rectangular Stadium,52,4,Round of 16
+2023,8,7,20:30,Australia,Sydney,Gadigal,1st Group B,2nd Group D,Stadium Australia,53,5,Round of 16
+2023,8,7,17:30,Australia,Brisbane,Meaanjin,1st Group D,2nd Group B,Brisbane Stadium,54,6,Round of 16
+2023,8,8,20:30,Australia,Adelaide,Tarntanya,1st Group F,2nd Group H,Hindmarsh Stadium,55,7,Round of 16
+2023,8,8,18:00,Australia,Melbourne,Naarm,1st Group H,2nd Group F,Melbourne Rectangular Stadium,56,8,Round of 16
+2023,8,11,13:00,New Zealand,Wellington,Te Whanganui-a-Tara,Winner of Game 1,Winner of Game 3,Wellington Regional Stadium,57,A,Quarter-Final
+2023,8,11,19:30,New Zealand,Auckland,Tamaki Makaurau,Winner of Game 2,Winner of Game 4,Eden Park,58,B,Quarter-Final
+2023,8,12,17:00,Australia,Brisbane,Meaanjin,Winner of Game 5,Winner of Game 7,Brisbane Stadium,59,C,Quarter-Final
+2023,8,12,20:30,Australia,Sydney,Gadigal,Winner of Game 6,Winner of Game 8,Stadium Australia,60,D,Quarter-Final
+2023,8,15,20:00,New Zealand,Auckland,Tamaki Makaurau,Winner of Game A,Winner of Game B,Eden Park,61,i,Semi-Final
+2023,8,16,20:00,Australia,Sydney,Gadigal,Winner of Game C,Winner of Game D,Stadium Australia,62,ii,Semi-Final
+2023,8,19,18:00,Australia,Brisbane,Meaanjin,Runner-Up of Game i,Runner-Up of Game ii,Brisbane Stadium,63,3rd Place,3rd Place
+2023,8,20,20:00,Australia,Sydney,Gadigal,Winner of Game i,Winner of Game ii,Stadium Australia,64,Final,Final
